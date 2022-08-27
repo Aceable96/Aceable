@@ -1,0 +1,37 @@
+/* -- Tag Selectors */
+
+  body {
+    background-color: #AFB4FF;
+
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color:#9C9EFE;
+    border-width: medium;
+    width: 10% ;
+
+  }
+
+h1{
+  color: #80558C;
+}
+
+h3{
+  color: #AF7AB3;
+}
+
+a
+{
+text-decoration: none;;
+}
+
+/* -- Class Selectors */
+.Heading{
+  color: #80558C;
+}
+
+.menu{
+  color: #AF7AB3;
+}
